@@ -1,0 +1,66 @@
+div
+{
+	border: 1px solid #a1a1a1;
+	
+	border-radius: 10px;
+	-moz-border-radius: 10px; /* Firefox 3.6 and earlier */
+	text-align: center;
+	
+}
+
+div.content
+{
+	background: #dddddd;
+	padding: auto;
+	margin: auto;
+	box-shadow: 5px 5px 5px #888888;
+	-moz-box-shadow: 5px 5px 5px #888888; /* Firefox 3.6 and earlier */
+}
+
+div#footer
+{
+	background: #586695;
+	margin: 5px;
+	color: white;
+}
+
+footer
+{
+	text-align: center;
+}
+
+table
+{
+	border: none;
+	margin: auto;
+	padding: 5px;
+	width: 100%;
+	text-align: left;
+}
+
+td.td1
+{
+	width: 10%;
+	text-align: left;
+}
+
+td.td2
+{
+	width: 50%;
+	text-align: center;
+}
+
+td.td3
+{
+	width: 50%;
+}
+
+fieldset
+{
+	padding: 5px;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 90%;
+	text-align: left;
+}
